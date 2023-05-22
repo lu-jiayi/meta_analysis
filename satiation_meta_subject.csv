@@ -1,0 +1,22 @@
+name_short,pub_date,n_total,slope,SE_slope,scale_type,scale,survey_type,context,exposure,paper,var
+Snyder (2000),2000,22,0.06364,0.03054,binary,binary,paper,Yes,5,snyder2000,0.020519215
+Francom (2009) Exp.1,2009,205,0.01849,0.008105,binary,binary,paper,No,5,francom2009,0.01346666
+Francom (2009) Exp.2,2009,17,0.03389,0.01677,binary,binary,paper,No,8,francom2009,0.004780959
+Crawford (2012),2012,22,0.00274,0.003343,7-point,scale,computer,Yes,7,crawford2012,0.000245864
+Chaves & Dery (2014) Exp.1,2014,60,0.007589,0.002075,7-point,scale,online,No,20,chaves&dery2014,0.000258338
+Chaves & Dery (2014) Exp.2,2014,51,0.01864,0.003093,7-point,scale,online,No,14,chaves&dery2014,0.000487899
+Do & Kaiser (2017) Exp.1b ,2017,44,0.003155,0.002874,5-point,scale,computer,No,6,do&kaiser2017,0.000363435
+Do & Kaiser (2017) Exp.1a,2017,40,0.00366,0.001874,5-point,scale,computer,No,6,do&kaiser2017,0.000140475
+Chaves & Dery (2019),2019,48,0.02191,0.003721,7-point,scale,online,No,22,chaves&dery2019,0.0006646
+"Lu, Lassiter & Degen (2021) Exp.1",2021,106,0.0193,0.001348,continuous,scale,online,Yes,15,lulassiter&degen2021,0.000192613
+"Lu, Lassiter & Degen (2021) Exp.2",2021,92,0.014718,0.002081,continuous,scale,online,Yes,15,lulassiter&degen2021,0.000398412
+"Lu, Wright & Degen (2022) Exp.1",2022,294,0.03442,0.002295,continuous,scale,online,Yes,12,luwright&degen2022,0.001548505
+"Lu, Wright & Degen (2022) Exp.2",2022,311,0.04373,0.002287,continuous,scale,online,Yes,12,luwright&degen2022,0.001626645
+Chaves & Putnam (2021) Exp.1,2021,74,0.009392,0.001664,5-point,scale,online,No,16,chaves&putnam2021,0.000204898
+Sprouse (2009) Exp.1a,2009,21,0.009524,0.031551,binary,binary,paper,No,5,sprouse2009,0.020904778
+Sprouse (2009) Exp.1b,2009,21,0.04986,0.02792,binary,binary,paper,No,5,sprouse2009,0.016370054
+Sprouse (2009) Exp.1c,2009,22,0.03182,0.02559,binary,binary,paper,No,5,sprouse2009,0.014406658
+Sprouse (2009) Exp.2a,2009,25,6.87E-03,4.65E-03,binary,binary,paper,No,10,sprouse2009,0.000540563
+Sprouse (2009) Exp.2b,2009,25,6.88E-03,4.71E-03,binary,binary,paper,No,10,sprouse2009,0.000554603
+Snyder (2022a) Exp.1,2022,20,-0.002851,0.04443,binary,binary,paper,Yes,5,snyder2022,
+Snyder (2022a) Exp.3,2022,151,0.024503,0.009918,binary,binary,computer,Yes,5,snyder2022,
